@@ -1,19 +1,6 @@
-# Official ServerlessClaw: Autonomous AI Agent Swarm for AWS
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/serverlessclaw/serverlessclaw/main/dashboard/public/system-pulse.png" alt="ServerlessClaw Dashboard - Real-time Infrastructure Topology" width="800">
-</p>p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SST-v4-E27152?style=for-the-badge&logo=sst" alt="SST v4">
-    <img src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=amazon-aws" alt="AWS Lambda">
-      <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript">
-        <img src="https://img.shields.io/badge/Self--Evolving-purple?style=for-the-badge" alt="Self-Evolution">
-</p>p>
-
----
-
-## # Official ServerlessClaw: Autonomous AI Agent Swarm for AWS
+<div align="center">
+  <h1>Official ServerlessClaw: Autonomous AI Agent Swarm for AWS</h1>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/serverlessclaw/serverlessclaw/main/dashboard/public/system-pulse.png" alt="ServerlessClaw Dashboard - Real-time Infrastructure Topology" width="800">
