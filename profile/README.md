@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/serverlessclaw/serverlessclaw/main/dashboard/public/system-pulse.png" alt="ServerlessClaw Dashboard - Real-time Infrastructure Topology" width="800">
+  <img src="https://raw.githubusercontent.com/serverlessclaw/serverlessclaw/main/apps/dashboard/public/system-pulse.png" alt="ServerlessClaw Dashboard - Real-time Infrastructure Topology" width="800">
 </p>
 
 <p align="center">
